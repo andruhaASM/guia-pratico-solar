@@ -18,6 +18,27 @@ Na página de login, você pode acessar inserindo seu e-mail e a senha.
 
 ![tela de login no sistema SOLAR]({{'/assets/img/tela_login_solar.png' | relative_url}} )
 
+## Níveis de acesso
+Cada usuário do solar tem diferentes níveis de acesso. Os níveis de acesso são definidos de acordo com o papel do usuário. Existem 14 papéis no SOLAR:
+
+1. Atendente 129
+2. Atendente Recepção
+3. Administrador de Unidade
+4. Supervisor Itinerante
+5. Administrador do Sistema
+6. Corregedor
+7. Defensor Público Geral
+8. Gerente de Honorários
+9. Oficial de Diligências
+10. Servidor Equipe Multidisciplinar
+11. Supervisor Equipe Multidisciplinar
+12. Defensor
+13. Estagiário
+14. Assessor
+
+A interface gráfica do SOLAR pode variar em função do papel de usuário, mas sempre vamos procurar mostrar os procedimentos que são comuns a todos os papéis do sistema.
+
+
 ## Ícones indicativos
 
 Os ícones indicativos são pequenas caixas na cor cinza, que aparecem toda vez que você for passar o mouse em cima de um determinado elemento do sistema e trazem mais detalhes sobre o elemento em si.
