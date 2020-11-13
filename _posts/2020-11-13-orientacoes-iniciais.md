@@ -22,7 +22,7 @@ Na página de login, você pode acessar inserindo seu e-mail e a senha.
 
 Os ícones indicativos são pequenas caixas na cor cinza, que aparecem toda vez que você for passar o mouse em cima de um determinado elemento do sistema e trazem mais detalhes sobre o elemento em si.
 
-![icones de ajuda](assets/img/icones_ajuda_solar.gif)
+![icones de ajuda](/guia-pratico-solar/assets/img/icones_ajuda_solar.gif)
 
 ## Navegador de internet
 Para máxima compatibilidade, indicamos acessar pelo navegador Google Chrome (última versão) no computador. Se você ainda não tem o Chrome instalado no seu computador, você pode baixar ele gratuitamente clicando aqui.
