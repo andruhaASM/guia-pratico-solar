@@ -24,6 +24,7 @@ Os ícones indicativos são pequenas caixas na cor cinza, que aparecem toda vez 
 
 ![icones de ajuda]({{'assets/img/icones_ajuda_solar.gif' | relative_url}})
 
+
 ## Navegador de internet
 Para máxima compatibilidade, indicamos acessar pelo navegador Google Chrome (última versão) no computador. Se você ainda não tem o Chrome instalado no seu computador, você pode baixar ele gratuitamente clicando aqui.
 
