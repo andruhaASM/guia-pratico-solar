@@ -16,13 +16,13 @@ O link direto para o programa de cálculos é o [http://solar.defensoria.sc.def.
 Adicione este endereço aos seus favoritos no navegador (Ctrl+D) para facilitar seu acesso.
 Na página de login, você pode acessar inserindo seu e-mail e a senha.
 
-![tela de login no sistema SOLAR](/assets/img/tela_login_solar.png)
+![tela de login no sistema SOLAR]({{'/assets/img/tela_login_solar.png' | relative_url}} )
 
 ## Ícones indicativos
 
 Os ícones indicativos são pequenas caixas na cor cinza, que aparecem toda vez que você for passar o mouse em cima de um determinado elemento do sistema e trazem mais detalhes sobre o elemento em si.
 
-![icones de ajuda](assets/img/icones_ajuda_solar.gif)
+![icones de ajuda]({{'assets/img/icones_ajuda_solar.gif' | relative_url}})
 
 ## Navegador de internet
 Para máxima compatibilidade, indicamos acessar pelo navegador Google Chrome (última versão) no computador. Se você ainda não tem o Chrome instalado no seu computador, você pode baixar ele gratuitamente clicando aqui.

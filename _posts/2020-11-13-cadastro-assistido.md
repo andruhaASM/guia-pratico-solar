@@ -26,7 +26,7 @@ Feito o login, você precisa ir ao menu à sua esquerda e escolher “Recepção
 
 Em seguida, vai aparecer uma tela onde você pode iniciar o cadastro, clicando no botão “Pessoa Física” localizado no canto superior direito.
 
-![tela de login no sistema SOLAR](/assets/img/tela_recepcao_cadastro_assistido_solar.png)
+![tela de login no sistema SOLAR]({{'/assets/img/tela_recepcao_cadastro_assistido_solar.png' | relative_url}})
 
 Assim, você vai iniciar o processo de preenchimento de informações do assistido (8 etapas mencionadas anteriormente).
 
@@ -35,7 +35,7 @@ Gravamos um vídeo curto para você ver como é simples o preenchimento.
 Obs. no vídeo estamos usando dados de uma pessoa fictícia e que não existe no mundo real.
 
 <video width="100%" height="540" controls>
-  <source src="/assets/videos/cadastro_assistido.mp4" type="video/mp4">
+  <source src="{{'/assets/videos/cadastro_assistido.mp4' | relative_url}}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
