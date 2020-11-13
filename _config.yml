@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   O SOLAR foi desenvolvido para facilitar a vida de todas as pessoas
   que trabalham para atingir os objetivos institucionais da Defensoria
   Pública do Estado de Santa Catarina.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/guia-pratico-solar/" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true # set to true to show excerpts on the homepage
 
