@@ -1,0 +1,19 @@
+version: '3'
+services:
+  site:
+    image: jekyll/jekyll:4
+    command: jekyll serve --watch --force_polling --verbose --trace
+    volumes:
+      - .:/srv/jekyll
+      - gem_cache:/usr/gem
+      - bundle_cache:/usr/local/bundle
+      - home_cache:/home/jekyll
+      - /var/jekyll # anonymous volume: https://success.docker.com/article/different-types-of-volumes
+      - /tmp # anonymous volume: https://success.docker.com/article/different-types-of-volumes
+    read_only: true
+    ports:
+      - 4000:4000
+volumes:
+  gem_cache: # fica vazio assim mesmo
+  bundle_cache: # fica vazio assim mesmo
+  home_cache: # fica vazio assim mesmo
