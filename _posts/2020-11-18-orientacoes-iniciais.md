@@ -39,12 +39,13 @@ Cada usuário do solar tem diferentes níveis de acesso. Os níveis de acesso s�
 A interface gráfica do SOLAR pode variar em função do papel de usuário, mas sempre vamos procurar mostrar os procedimentos que são comuns a todos os papéis do sistema.
 
 
-## Ícones indicativos
+## Ícones indicativos e navegação
 
 Os ícones indicativos são pequenas caixas na cor cinza, que aparecem toda vez que você for passar o mouse em cima de um determinado elemento do sistema e trazem mais detalhes sobre o elemento em si.
 
 ![icones de ajuda]({{'assets/img/icones_ajuda_solar.gif' | relative_url}})
 
+A navegação no programa pode ser feita tanto dentro do próprio SOLAR, utilizando os botões que fazem parte da interface gráfica do sistema, como por meio de botões de navegação do próprio navegador.
 
 ## Navegador de internet
 Para máxima compatibilidade, indicamos acessar pelo navegador Google Chrome (última versão) no computador. Se você ainda não tem o Chrome instalado no seu computador, você pode baixar ele gratuitamente clicando aqui.
