@@ -78,6 +78,10 @@ Na aba “Documentos” você consegue visualizar todos os documentos relacionad
 
 ![localizar atendimento SOLAR]({{'/assets/img/editar_atendmento_documentos_solar.png' | relative_url}} )
 
+Na aba documentos você também pode anexar novos documentos relacionados ao processo, conforme a imagem abaixo.
+
+![localizar atendimento SOLAR]({{'/assets/img/anexando_documento_solar.gif' | relative_url}} )
+
 Por fim, na aba de “Anotações” você pode deixar as anotações que podem auxiliar no andamento do processo e facilitar a comunicação entre as pessoas que vão ter acesso ao processo.
 
 ## Remarcar o atendimento
@@ -87,14 +91,6 @@ Caso o assistido solicite a remarcação do atendimento, o processo funciona de 
 Basta escolher comarca (1), Defensor (2) e a agenda (3). 
 
 ![localizar atendimento SOLAR]({{'/assets/img/remarcar_atendmento_solar.png' | relative_url}} )
-
-A tela de Detalhes de Atendimento traz uma série de ferramentas que foram feitas para melhorar o fluxo do atendimento nas demais etapas e facilitar a localização do atendimento posteriormente.
-
-A propósito deste manual vamos usar um atendimento real agendado no passado e vamos ocultar os dados pessoais do assistido.
-
-## Visualizar a documentação anexa
-
-Essa opção vai levar você a aba “Documentos” descrita na seção que trata de edição de atendimento. 
 
 ## Ver a ficha de atendimento completa
 
