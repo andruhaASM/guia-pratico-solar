@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Primeiros passos"
-permalink: /primeiros-passos-solar/
-description: "Descubra como realizar ações básicas no SOLAR (login, cadastro de assistido e etc) e o canal de suporte ao usuário."
+title: "Perguntas Frequentes"
+permalink: /perguntas-frequentes-solar/
+description: "Tire aqui as dúvidas mais comuns sobre o SOLAR."
 ---
 
  <div class="home">
@@ -11,7 +11,7 @@ description: "Descubra como realizar ações básicas no SOLAR (login, cadastro 
    
    <ul class="post-list">
      {%- for post in site.posts -%}
-     {% if post.cat == "first_steps" %}
+     {% if post.cat == "faq" %}
      <li>
        <h3><a class="post-link" href="{{ post.permalink | relative_url }}">
            {{ post.title }}
@@ -21,6 +21,8 @@ description: "Descubra como realizar ações básicas no SOLAR (login, cadastro 
      {% endif %}
      {%- endfor -%}
    </ul>
+
+
 
 
 </div>
