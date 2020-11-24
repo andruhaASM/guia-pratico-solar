@@ -11,7 +11,7 @@ Ele transforma o processo de agendamento de atendimento e acompanhamento das nec
 
 ## Acessando o programa
 
-O link direto para o programa de cálculos é o [http://solar.defensoria.sc.def.br/login/](http://solar.defensoria.sc.def.br/login/){:target="_blank"}
+O link direto para o sistema é o [http://solar.defensoria.sc.def.br/login/](http://solar.defensoria.sc.def.br/login/){:target="_blank"}
 
 Adicione este endereço aos seus favoritos no navegador (Ctrl+D) para facilitar seu acesso.
 Na página de login, você pode acessar inserindo seu e-mail e a senha.
